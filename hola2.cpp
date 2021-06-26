@@ -1,10 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int ()
+int main()
 {
     printf("Hola IoT");
     return 0;
 }
-nxcbnzxcnb
-nbcxnz<b
-Ayuda a Hugo
+
