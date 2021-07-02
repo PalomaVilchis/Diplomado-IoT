@@ -10,6 +10,8 @@ Commit desde visual Studio 26 junio 8:44hrs V.2
 
 Cuarta modificacion enlace github desktop con Visual Studio
 
+Quinta modificacion 2 de julio del 2021 a las 14:26pm 
+Añadì imagen de la raspberry 
 
 
 
