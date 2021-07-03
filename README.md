@@ -13,6 +13,7 @@ Cuarta modificacion enlace github desktop con Visual Studio
 Quinta modificacion 2 de julio del 2021 a las 14:26pm 
 Añadì imagen de la raspberry 
 
+sexta modificacion clase 3 de julio del 2021 a las 9:56am
 
 
 
