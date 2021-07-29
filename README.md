@@ -7,6 +7,14 @@ Enlace de github desktop con VisualStuido Code
 cambio 25 junio 19:21
 
 
+Commit desde visual Studio 26 junio 8:44hrs V.2
+Prueba del pull
+
+
+
+
+
+
 
 Cuarta modificacion enlace github desktop con Visual Studio
 =======
