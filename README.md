@@ -23,7 +23,6 @@ Estas fotos también las subí a mi repositorio  ferdanrc/git-tutorial-basic
 ===
 ====Commit desde visual Studio 26 junio 8:44hrs V.2
 
-
 Quinta modificacion 2 de julio del 2021 a las 14:26pm 
 Añadì imagen de la raspberry 
 
